@@ -3,9 +3,9 @@
  * Created: 19-nov-2017
  */
 
-DROP DATABASE redSocial;
-CREATE DATABASE redSocial;
-USE redSocial;
+DROP DATABASE redS;
+CREATE DATABASE redS;
+USE redS;
 
 CREATE TABLE sexo (
     id INT AUTO_INCREMENT,
